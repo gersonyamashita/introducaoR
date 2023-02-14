@@ -10,7 +10,7 @@ Fonte: https://www.kaggle.com/datasets/heptapod/titanic?resource=download
 
 
 
-#######DICIONÁRIO DE VARIÁVEIS
+#######DICIONÁRIO DE VARIÁVEIS(br)
 ######## Variável	Descrição
 ######## PassengerId	Identificador do Passageiro
 ######## Survived	Variável de indicadora de sobrevivência (0 = Não Sobreviveu, 1 = Sobreviveu)
