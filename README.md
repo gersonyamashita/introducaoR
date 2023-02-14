@@ -37,3 +37,8 @@ Fonte: https://www.kaggle.com/datasets/heptapod/titanic?resource=download
 ######## Cabin	Código da cabine
 
 ######## Embarked	Porto de embarque
+
+
+
+
+Análise conclusiva a maior idade 80 anos com média de 30 anos e mediana de 28 dos passageiros. Tarifa de média de 33.281  e mediana 14.454, sendo maior valor de 512.329. 
